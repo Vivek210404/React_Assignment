@@ -10,7 +10,6 @@ const Login = () => {
 
   const handleLogin = (e) => {
     e.preventDefault();
-    // Hamesha profile page pe bhejna hai
     navigate("/profile");
   };
 
