@@ -10,8 +10,6 @@ This is a simple React-based web application built as part of an assignment. It 
 - Profile page showing user details and ability to upload a profile picture.
 - Fully responsive and mobile-friendly design.
 
-## Screenshots
-
 ## Installation
 
 1. Clone the repository:
